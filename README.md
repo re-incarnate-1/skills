@@ -13,3 +13,4 @@ How to install: `npx skills@latest add re-incarnate-1/skills/honesty`
 This skill structures how Claude thinks with you rather than just at you — answering directly, then questioning and reexamining where it matters. It avoids the need to manually ask for suggestions or follow-up questions in every prompt.
 
 How to install: `npx skills@latest add re-incarnate-1/skills/examined-thinking`
+
