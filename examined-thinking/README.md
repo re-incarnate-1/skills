@@ -1,4 +1,4 @@
-# 🧠 [Examined Thinking](examined-thinking/SKILL.md)
+# 🧠 [Examined Thinking](./SKILL.md)
 This skills structures how Claude thinks with you rather than just at you — answering directly,
     then questioning and re-examining where it matters, without chasing every thread into the weeds.
 The Socratic core is the point of this skil: good questions illuminate more than good answers.
